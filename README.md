@@ -17,6 +17,7 @@
 <p align ="center" dir="auto>
                         
 **👽Skills**
+                        </p>
                         
 <p align ="center" dir="auto>
   
@@ -37,6 +38,7 @@
 <p align ="center" dir="auto>
                         
 **👁Tools**
+                        </p>
                         
 <p align ="center" dir="auto>
   
