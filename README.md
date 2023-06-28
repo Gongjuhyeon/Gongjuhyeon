@@ -1,9 +1,9 @@
-<div align="center">
+![image](https://github.com/Gongjuhyeon/Gongjuhyeon/assets/64082236/fae38af6-819b-488d-b691-efb7828b713a)<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&customColorList=15&height=150&section=header&text=Hello&fontColor=FFFFFF&fontSize=60&animation=twinkling&desc=Welcome%20to%20my%20hub!&descAlignY=70&descAlign=60)
 </div>
 
-<p align ="center" dir="auto"><strong>Hi there </strong> 👋 <strong>I'm 😎Juhyeon Kim</strong></p>
+<h2 dir="auto"><p align ="center" dir="auto"><strong>Hi there </strong> 👋 <strong>I'm 😎Juhyeon Kim</strong></p></h2>
                         
 <p align ="center" dir="auto">
 <a href="https://www.instagram.com/jju.hyeoni/" ><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 <a href="https://blog.naver.com/kjh000121" ><img src="https://img.shields.io/badge/Blog-03C75A?logo=Naver&logoColor=white"/></a> </p>
 
                                                                                                                           
-<p align ="center" dir="auto"><strong>👽Skills</strong></p>
+<h2 dir="auto"><p align ="center" dir="auto"><strong>👽Skills</strong></p></h2>
                         
 <p align ="center" dir="auto>
 
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></p>
   
 
-<p align ="center" dir="auto"><strong>👁Tools</strong></p>
+<h2 dir="auto"><p align ="center" dir="auto"><strong>👁Tools</strong></p></h2>
 
 <p align ="center" dir="auto>
   
@@ -45,6 +45,15 @@
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/></p>
 
+
+<h2 dir="auto"><p align ="center" dir="auto"><strong>📱Contact</strong></p></h2>
+
+<p align ="center" dir="auto>
+  
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+</p>
+                                                                                                   
+<p align ="center" dir="auto>
 
 <div align="center">
   
