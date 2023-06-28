@@ -1,5 +1,3 @@
-![image](https://github.com/Gongjuhyeon/Gongjuhyeon/assets/64082236/fae38af6-819b-488d-b691-efb7828b713a)<div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&customColorList=15&height=150&section=header&text=Hello&fontColor=FFFFFF&fontSize=60&animation=twinkling&desc=Welcome%20to%20my%20hub!&descAlignY=70&descAlign=60)
 </div>
 
