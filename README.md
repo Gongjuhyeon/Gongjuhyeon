@@ -50,7 +50,6 @@
   
 <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></p>
                                                                                                    
-<p align ="center" dir="auto>
 
 <div align="center">
   
