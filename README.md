@@ -53,10 +53,10 @@
 </p>
                                                                                                    
 
-<div align="center">
+<h2 dir="auto"><div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gongjuhyeon&show_icons=true&theme=radical)</div>
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongjuhyeon&layout=donut)](https://github.com/Gongjuhyeon/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongjuhyeon&layout=donut)](https://github.com/Gongjuhyeon/github-readme-stats)</div></h2>
